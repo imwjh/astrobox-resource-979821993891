@@ -22,6 +22,11 @@
     {
       "title": "支持我",
       "url": "https://imwjh.com/support-me/zh",
+      "icon": "Heart"
+    },
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
       "icon": "AirplaneTilt"
     }
   ],
