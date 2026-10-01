@@ -32,19 +32,37 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0",
-      "file_name": "downloads/MonolithRes_979821993891.bin",
-      "versionCode": 1
+      "version": "4",
+      "file_name": "downloads/MonolithRes_979821993891_v4_20261001.bin",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "4",
+          "content": "修复日期显示不全的bug"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.0",
-      "file_name": "downloads/MonolithRes_979821993891.bin",
-      "versionCode": 1
+      "version": "4",
+      "file_name": "downloads/MonolithRes_979821993891_v4_20261001.bin",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "4",
+          "content": "修复日期显示不全的bug"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.0",
-      "file_name": "downloads/MonolithRes_979821993891.bin",
-      "versionCode": 1
+      "version": "4",
+      "file_name": "downloads/MonolithRes_979821993891_v4_20261001.bin",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "4",
+          "content": "修复日期显示不全的bug"
+        }
+      ]
     }
   },
   "ext": {}
